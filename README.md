@@ -3,7 +3,7 @@ This repository contains tests I've done on the Cosmos python library (using a s
 
 ## Requirements
 * Cosmos 2 must be installed (see [here](http://cosmos.hms.harvard.edu/COSMOS2/))
-* Jupyter must be installed (at least to use the ipython notebooks in the 'src' folder see [here](http://jupyter.org/) 
+* Jupyter must be installed (at least to use the ipython notebooks in the 'src' folder see [here](http://jupyter.org/))
 * R must be installed (any version over 2.1 will do, see [here](https://www.r-project.org/))
 
 ## Setting up the tests
