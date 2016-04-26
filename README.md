@@ -7,7 +7,7 @@ This repository contains tests I've done on the Cosmos python library (using a s
 * R must be installed (any version over 2.1 will do, see [here](https://www.r-project.org/))
 
 ## Setting up the tests
-* Go to the directory you have Cosmos 2 installed and find the 'examples' directory.
+* Go to the directory you have Cosmos 2 installed in and find the 'examples' directory.
 * Rename the 'main.py' file to  anything (main.old.py for example)
 * Copy the given 'main.py' and 'testxx.py' files in this repository in the current directory (path2yourCosmosInstall/examples)
 * Then copy the **entire** src folder in the 'examples' directory.
