@@ -1,5 +1,5 @@
 # Cosmos_tests
-This repository contains tests I've done on the Cosmos python library (using a small quality treatment algorithm).
+This repository contains a small package of tests I've done on the Cosmos 2 python library (using a small quality treatment algorithm).
 
 ## Requirements
 * Cosmos 2 must be installed (see [here](http://cosmos.hms.harvard.edu/COSMOS2/))
